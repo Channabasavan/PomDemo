@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23749" started-at="2021-12-18T10:33:51 IST" finished-at="2021-12-18T10:34:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23749" started-at="2021-12-18T10:33:51 IST" finished-at="2021-12-18T10:34:14 IST">
+      <class name="com.atipune.pom.tests.HomePageTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="setup" is-config="true" duration-ms="18017" started-at="2021-12-18T10:33:51 IST" finished-at="2021-12-18T10:34:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFirstBookTitle()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="verifyFirstBookTitle" duration-ms="1211" started-at="2021-12-18T10:34:09 IST" finished-at="2021-12-18T10:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstBookTitle -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="verifyHomePageTitle" duration-ms="57" started-at="2021-12-18T10:34:10 IST" finished-at="2021-12-18T10:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyNewArrivalsDisplayed()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="verifyNewArrivalsDisplayed" duration-ms="157" started-at="2021-12-18T10:34:10 IST" finished-at="2021-12-18T10:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsDisplayed -->
+        <test-method status="PASS" signature="verifyNewArrivalsEnabled()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="verifyNewArrivalsEnabled" duration-ms="177" started-at="2021-12-18T10:34:10 IST" finished-at="2021-12-18T10:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsEnabled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.atipune.pom.tests.HomePageTests@4f063c0a]" name="tearDown" is-config="true" duration-ms="3841" started-at="2021-12-18T10:34:10 IST" finished-at="2021-12-18T10:34:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atipune.pom.tests.HomePageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
